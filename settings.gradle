@@ -1,0 +1,3 @@
+include ':app:LocationLibrary'
+include ':app'
+rootProject.name = "Android-Reactive-Location-Sample"
